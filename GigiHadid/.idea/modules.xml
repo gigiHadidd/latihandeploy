@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GigiHadid.iml" filepath="$PROJECT_DIR$/GigiHadid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TugasPackageImport/TugasPackageImportUtil/Pertemuan 3/Pertemuan 3.iml" filepath="$PROJECT_DIR$/TugasPackageImport/TugasPackageImportUtil/Pertemuan 3/Pertemuan 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pertemuan3/Pertemuan3.iml" filepath="$PROJECT_DIR$/Pertemuan3/Pertemuan3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TugasPackageImport/TugasPackageImport.iml" filepath="$PROJECT_DIR$/TugasPackageImport/TugasPackageImport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TugasPackageImport/TugasPackageImportUtil/TugasPackageImportUtil.iml" filepath="$PROJECT_DIR$/TugasPackageImport/TugasPackageImportUtil/TugasPackageImportUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pertemuan akhir deh sebelum uts pokoknya/pertemuan akhir deh sebelum uts pokoknya.iml" filepath="$PROJECT_DIR$/pertemuan akhir deh sebelum uts pokoknya/pertemuan akhir deh sebelum uts pokoknya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pertemuan5/pertemuan5.iml" filepath="$PROJECT_DIR$/pertemuan5/pertemuan5.iml" />
+    </modules>
+  </component>
+</project>
