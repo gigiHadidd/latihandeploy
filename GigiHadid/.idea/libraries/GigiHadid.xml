@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GigiHadid">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Pertemuan3/src" />
+      <root url="file://$PROJECT_DIR$/TabbedPane/src" />
+      <root url="file://$PROJECT_DIR$/TugasPackageImport/TugasPackageImportUtil/Pertemuan 3/src" />
+      <root url="file://$PROJECT_DIR$/TugasPackageImport/TugasPackageImportUtil/src" />
+      <root url="file://$PROJECT_DIR$/TugasPackageImport/src" />
+      <root url="file://$PROJECT_DIR$/TugasPackageImport/ybh/bababa/src" />
+      <root url="file://$PROJECT_DIR$/TugasPackageImport/ybh/src" />
+      <root url="file://$PROJECT_DIR$/TugasPackageImport/ybh/ygt/src" />
+      <root url="file://$PROJECT_DIR$/pertemuan akhir deh sebelum uts pokoknya/src" />
+      <root url="file://$PROJECT_DIR$/pertemuan5/src" />
+      <root url="file://$PROJECT_DIR$/projectUTS/src" />
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
